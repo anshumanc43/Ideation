@@ -1,0 +1,33 @@
+/*img {
+	object-fit: contain;
+	
+}*/
+
+.carousel-caption{
+	top: 50%;
+	transform: translateY(-20%);
+	bottom: initial;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+	/*background-color: #000;*/
+}
+
+#bottomH{
+	color: #000;
+	text-align: center;
+}
+
+.card-img-top{
+  height: 280px;
+  width: 150px;	
+}
+
+
+#myMan{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
